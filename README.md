@@ -1,12 +1,12 @@
 # 🤖 Komari-FAgent: 基于 Komari 的虚拟 Agent 管理平台
 
-> 一个用于生成并管理多个虚拟 Agent 的分布式仿真平台，构建于 [Komari-Agent](https://github.com/XXX/Komari-Agent) 之上。
+> 一个用于生成并管理多个虚拟 Agent 的分布式仿真平台，构建于 [Komari](https://github.com/komari-monitor/komari) 之上。
 
 ---
 
 ## 🌟 项目简介
 
-Komari-FAgent 是一个基于 [Komari-Agent](https://github.com/komari-monitor/komari) 协议实现的多节点 Agent 虚拟化管理平台。该项目旨在构建一个灵活、可扩展的虚拟终端集群环境，支持跨地域模拟、配置注入、批量添加等能力，适用于测试、演示、压力评估等场景。
+Komari-FAgent 是一个基于 [Komari](https://github.com/komari-monitor/komari) 协议实现的多节点 Agent 虚拟化管理平台。该项目旨在构建一个灵活、可扩展的虚拟终端集群环境，支持跨地域模拟、配置注入、批量添加等能力，适用于测试、演示、压力评估等场景。
 
 ---
 
